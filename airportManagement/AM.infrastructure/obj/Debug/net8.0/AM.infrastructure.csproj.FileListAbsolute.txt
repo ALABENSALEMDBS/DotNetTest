@@ -1,0 +1,17 @@
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.deps.json
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.runtimeconfig.json
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.dll
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.infrastructure.pdb
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.csproj.AssemblyReference.cache
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.AssemblyInfoInputs.cache
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.AssemblyInfo.cs
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infra.543A69EC.Up2Date
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.dll
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\refint\AM.infrastructure.dll
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.pdb
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\AM.infrastructure.genruntimeconfig.cache
+C:\Users\alabe\source\repos\airportManagement\AM.infrastructure\obj\Debug\net8.0\ref\AM.infrastructure.dll

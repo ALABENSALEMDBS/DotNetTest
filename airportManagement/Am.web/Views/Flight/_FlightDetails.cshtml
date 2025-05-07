@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model AM.ApplicationCore.domain.Flight
+@* { *@
+@* } *@
+
+<div>
+    <dl class="row">
+        <dt>nombre de passagers</dt>
+        <dd>@Model.Passengers.Count()</dd>
+
+        <dt>type Avion</dt>
+        <dd>@Model.Plane.PlaneType</dd>
+
+        <dt>Capacity Avion</dt>
+        <dd>@Model.Plane.Capacity</dd>
+    </dl>
+</div>
+
